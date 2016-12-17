@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "ActorPlayground", "ActorPlayground\ActorPlayground.sfproj", "{51369EB2-98E2-4B87-9D99-083425D98697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actor1", "Actor1\Actor1.csproj", "{FB69C663-E3E1-42F9-A0C7-368AE518F32B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actor1.Interfaces", "Actor1.Interfaces\Actor1.Interfaces.csproj", "{903A1D25-D3C9-4581-897B-4E3E0B71F6C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51369EB2-98E2-4B87-9D99-083425D98697}.Debug|x64.ActiveCfg = Debug|x64
+		{51369EB2-98E2-4B87-9D99-083425D98697}.Debug|x64.Build.0 = Debug|x64
+		{51369EB2-98E2-4B87-9D99-083425D98697}.Debug|x64.Deploy.0 = Debug|x64
+		{51369EB2-98E2-4B87-9D99-083425D98697}.Release|x64.ActiveCfg = Release|x64
+		{51369EB2-98E2-4B87-9D99-083425D98697}.Release|x64.Build.0 = Release|x64
+		{51369EB2-98E2-4B87-9D99-083425D98697}.Release|x64.Deploy.0 = Release|x64
+		{FB69C663-E3E1-42F9-A0C7-368AE518F32B}.Debug|x64.ActiveCfg = Debug|x64
+		{FB69C663-E3E1-42F9-A0C7-368AE518F32B}.Debug|x64.Build.0 = Debug|x64
+		{FB69C663-E3E1-42F9-A0C7-368AE518F32B}.Release|x64.ActiveCfg = Release|x64
+		{FB69C663-E3E1-42F9-A0C7-368AE518F32B}.Release|x64.Build.0 = Release|x64
+		{903A1D25-D3C9-4581-897B-4E3E0B71F6C1}.Debug|x64.ActiveCfg = Debug|x64
+		{903A1D25-D3C9-4581-897B-4E3E0B71F6C1}.Debug|x64.Build.0 = Debug|x64
+		{903A1D25-D3C9-4581-897B-4E3E0B71F6C1}.Release|x64.ActiveCfg = Release|x64
+		{903A1D25-D3C9-4581-897B-4E3E0B71F6C1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
